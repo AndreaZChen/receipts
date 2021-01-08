@@ -1,4 +1,4 @@
-const receipt = require('./target_1-3.json')
+const receipt = require('./inputs.json')
 
 var totalCosts = {};
 
