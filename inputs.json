@@ -1,0 +1,48 @@
+{
+  "items": [
+    {
+      "label": "Milk",
+      "cost": 1.42,
+      "bill_to": [
+        "Demeter",
+        "Zagreus"
+      ]
+    },
+    {
+      "label": "Tea",
+      "cost": 1.42,
+      "bill_to": [
+        "Artemis",
+        "Demeter",
+        "Hypnos"
+      ]
+    },
+    {
+      "label": "Wine",
+      "cost": 100,
+      "bill_to": [
+        "Dionysus",
+        "Zagreus"
+      ]
+    },
+    {
+      "label": "Chicken thighs",
+      "cost": 8.41,
+      "bill_to": [
+        "Artemis",
+        "Dionysus",
+        "Dusa"
+      ]
+    },
+    {
+      "label": "Toilet paper",
+      "cost": 5.99,
+      "bill_to": [
+        "Zagreus",
+        "Dusa",
+        "Hypnos",
+        "Achilles"
+      ]
+    }
+  ]
+}
